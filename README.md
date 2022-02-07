@@ -1,5 +1,5 @@
 # Leetcode-DSA
 
-A repo which contains DSA problem solutions
+Solution of DSA Problems
 
-Anyone with solutions can contribute : )
+Anyone with solutions in any language can contribute : )
